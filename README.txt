@@ -1,0 +1,2 @@
+This zipped folder contains all files neccessary for running the CN Project developed by Group-6 of Section-009(I).
+include the .jar files in the eclipse referenced libraries for proper execution of the server and client programs.
